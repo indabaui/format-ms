@@ -1,0 +1,13 @@
+{
+  "name": "format-ms",
+  "repo": "indabaui/format-ms",
+  "description": "formats ms in to minutes and seconds (eg 3:27)",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
